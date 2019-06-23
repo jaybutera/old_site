@@ -1,4 +1,4 @@
-import * as wasm from "rust-hashgraph";
+import * as wasm from "./rust_hashgraph.js";
 
 // Globals
 let creators = {}
