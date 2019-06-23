@@ -1,4 +1,4 @@
-import * as wasm from './rust_hashgraph_bg';
+import * as wasm from './rust_hashgraph_bg.wasm';
 
 let WASM_VECTOR_LEN = 0;
 
